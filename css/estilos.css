@@ -3,7 +3,7 @@
 
 .u-title{
     border-bottom: 2px dashed #00CCFF;
-    color: #00CCFF;
+    color: #FFCCFF;
     font-weight: normal;
     font-size: 1.5em;
     padding-bottom: .5em;
@@ -19,7 +19,7 @@
 /* MainMenu */
 
 .MainMenu{
-    background: #1E1E1E;
+    background:  #1E601E;
     text-align: center;
     height: 3.75em;
     position: fixed;
